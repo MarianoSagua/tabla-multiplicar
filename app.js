@@ -9,6 +9,3 @@ crearArchivo(argv.b, argv.l, argv.h)
   .catch((error) => {
     console.log(error);
   });
-
-
-// console.log();
